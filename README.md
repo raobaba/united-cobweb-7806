@@ -10,11 +10,11 @@ html5, Css3, Javscript, React.js React-Redux,Fiebase Authentication, React-Boots
 
 # SignUp Page
 
-![Screenshot (21)](https://user-images.githubusercontent.com/99542983/232975249-0c3b6c14-d244-4f36-9eca-f7dc4a5518c7.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/99542983/232975419-a8106800-d97e-4770-8269-fb5fafdb421a.png)
 
 #Login Page
 
-![Screenshot (22)](https://user-images.githubusercontent.com/99542983/232975419-a8106800-d97e-4770-8269-fb5fafdb421a.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/99542983/232975249-0c3b6c14-d244-4f36-9eca-f7dc4a5518c7.png)
 
 # Product Page
 
