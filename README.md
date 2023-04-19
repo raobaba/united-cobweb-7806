@@ -2,7 +2,7 @@
 
 # It is the collaborative project. We have created this project in 5 days by 4 members
 # Tech Stacks used in this project 
-html5, Css3, Javscript, Json-Server
+html5, Css3, Javscript, React.js React-Redux,Fiebase Authentication, React-Bootstrap-Components
 
 # Home Page 
 
